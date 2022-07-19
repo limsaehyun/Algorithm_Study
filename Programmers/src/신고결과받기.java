@@ -4,6 +4,7 @@ import java.util.HashSet;
 
 /*
     2022.06.30
+    programmers level 1 - java
     https://programmers.co.kr/learn/courses/30/lessons/92334
  */
 public class 신고결과받기 {
